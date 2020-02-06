@@ -1,0 +1,1 @@
+# CommonServiceLocator.NinjectAdapter.Core
