@@ -1,1 +1,1 @@
-# CommonServiceLocator.NinjectAdapter.Core
+# CommonServiceLocator.NinjectAdapter.Extension
